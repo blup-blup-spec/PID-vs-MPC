@@ -1,0 +1,8 @@
+# Microsoft Office temporary lock files
+~$*
+*.tmp
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
